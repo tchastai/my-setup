@@ -1,5 +1,9 @@
 packages:
   - git
+  - nvm
+  - go
+  - k9s
+  - lazygit
 
 casks:
   - google-chrome

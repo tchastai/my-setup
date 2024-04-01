@@ -1,0 +1,9 @@
+packages:
+  - git
+
+casks:
+  - google-chrome
+  - zed
+  - intellij-idea-ce
+  - alacritty
+  - bitwarden
